@@ -7,7 +7,7 @@ Based on 15,987 sets Stokes shift data processed with molecular fingerprints, we
 * Scikit-learn
 * Pandas
 
-The files STy.xlsx, STKSAy.xlsx and STKSEy.slsx correspond to the outputs of the models constructed for Stokes shift, absorption wavelength, and emission wavelength respectively.
+The files STy.xlsx, STKSAy.xlsx and STKSEy.xlsx correspond to the outputs of the models constructed for Stokes shift, absorption wavelength, and emission wavelength respectively.
 File STx.rar serves as the input for the ML model construction.
 Unseencases.xlsx contains detailed information on 70 recently reported fluorescent organic compounds.
 
