@@ -4,7 +4,6 @@ Based on 15,987 sets Stokes shift data processed with molecular fingerprints, we
 
 # Requirements:
 * Python 3.9.12
-* RDKit
 * Scikit-learn
 * Pandas
 
